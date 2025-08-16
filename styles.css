@@ -1,1 +1,26 @@
+.page{
+	display: flex;
+	justify-content: space-between;
+	background-color: gray;
+}
+.profile{
+	background-color: beige;
+	margin: 12px;
+}
 
+.pic_name{
+	display: flex;
+	justify-content: space-between;
+}
+
+.pic img{
+	width: 80px;
+}
+
+.name{
+	background-color: lightblue;
+}
+
+.skills{}
+
+.about{}
